@@ -1,0 +1,5 @@
+id: 1
+maximumQuantityOfContainers: 100
+containerToPutLeft: 100
+warehouseContainers: {
+}

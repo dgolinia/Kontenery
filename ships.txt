@@ -1,0 +1,12 @@
+id: 1
+name: Titanic
+homePort: Gdansk
+sourceLocation: Gdansk
+transportDestination: America
+maximumQuantityOfToxicAndExplosiveContainers: 5
+maximumQuantityOfHeavyContainers: 5
+maximumQuantityOfRefrigeratedContainers: 5
+maximumQuantityOfContainers: 20
+maximumDisplacement: 25.0
+shipContainers: {
+}
